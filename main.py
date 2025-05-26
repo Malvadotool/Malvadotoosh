@@ -419,7 +419,7 @@ if __name__ == "__main__":
             )
 
             console.print(
-                "[bold yellow]===============[bold white][ EL MALVADO ][/bold white]===============[/bold yellow]"
+                "[bold red]===============[bold white][ MALVADO TOOL VIP ][/bold white]===============[/bold red]"
             )
 
             service = IntPrompt.ask(
@@ -429,7 +429,7 @@ if __name__ == "__main__":
             )
 
             console.print(
-                "[bold yellow]===============[bold white][ EL MALVADO ][/bold white]===============[/bold yellow]"
+                "[bold yellow]===============[bold white][ MALVADO TOOL VIP ][/bold white]===============[/bold yellow]"
             )
 
             if service == 0:  # Exit
